@@ -449,7 +449,7 @@ if (isset ($_GET ['page'])) {
 
 ?>
     <div id="footer">
-      Armal - Automatic Real-time Monitor And Log :: <a href="about">About</a>
+      Armal - Automatic Real-time Monitor And Log :: <a href="?page=about">About</a>
     </div>
   </div>
 </body>
