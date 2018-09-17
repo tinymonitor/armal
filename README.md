@@ -7,4 +7,6 @@ It is implemented as a standalone page, however, you will very likely include it
 
 The script can also be used to detect web bosts, spiders and crawlers.
 
+![ARMAL screenshot](/images/screenshot.png)
+
 No configuration is needed. You may want to define admin Ip address in the $admin_ip variable. These addresses are excluded from monitoring.
