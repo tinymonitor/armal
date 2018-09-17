@@ -7,7 +7,7 @@ The script can also be used to detect web bots, spiders and crawlers.
 
 ![ARMAL screenshot](/images/screenshot.png)
 
-No configuration is needed. You may want to define admin IP address in the $admin_ip variable. These addresses are excluded from monitoring.
+No configuration is needed. You may want to define admin IP address in the `$admin_ip` variable. These addresses are excluded from monitoring.
 
 The log is stored as a serialized array for easier processing. You can define how many entries are saved into the log and how many entries are displayed.
 
